@@ -55,10 +55,6 @@ Color:Pink
 "Pink"
 End
 
-Color:White
-"White"
-End
-
 CONTROLBAR:ConstructCamp
 "(&C)Camp"
 End
@@ -158,6 +154,10 @@ End
 Version:Format2
 "Version T3A 1.06"
 END
+
+Color:White
+"White"
+End
 
 Map:MAPMPAndrast
 "Andrast"
