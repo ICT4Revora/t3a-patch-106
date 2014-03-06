@@ -3415,7 +3415,7 @@ CONTROLBAR:ConstructIsengardUrukHai
 End
 
 CONTROLBAR:ConstructIsengardUrukPit
-	"Construir Foso de Huar&gos de Isengard"
+	"Construir Foso de Uruks de Isen&gard"
 End
 
 CONTROLBAR:ConstructIsengardWargPit
