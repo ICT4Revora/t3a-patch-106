@@ -1,0 +1,259 @@
+APT:DisconnectRules
+"Un ou plusieurs joueurs ont déconnecté du jeu \n Le joueur(s) peut revenir pour continuer à jouer; cependant il est possible qu'il \n tente de contourner le système de classement Victoires/Defaites. \n Si vous souhaitez déposer une plainte, cliquez sur le lien 'Signaler un tricheur' sur la page web du classement du jeu."
+End
+
+APT:ESRBNotice
+"T3A:Online, un serveur pour BFME créer par la communauté Visitez online.the3rdage.net pour plus d'infos"
+End
+
+APT:OfficialSite
+"FORUMS DE SUPPORT"
+End
+
+APT:OnlineEAAccountName
+"Nom de compte Revora"
+End
+
+APT:Password
+"T3A:Online Password"
+End
+
+APT:ServiceTerms
+"SITE OFFICIEL"
+End
+
+Color:Pink
+"Rose"
+End
+
+CONTROLBAR:ConstructCamp
+"(&C)Camp"
+End
+
+CONTROLBAR:ConstructCastle
+"(&C)Château"
+End
+
+CONTROLBAR:ConstructOutpost
+"(&C)Avant-poste"
+End
+
+CONTROLBAR:EyeofSauron
+"Oeil de Sauron"
+End
+
+CONTROLBAR:GandalfTheWhiteRecruit
+"Héros.\n Recrutez un magicien armé de puissants pouvoirs. \n 10 Points de commandement"
+End
+
+CONTROLBAR:GondorAragornRecruit
+"Héros. \n Recrutez l'héritier du trone du Gondor. \n 5 Points de commandement"
+End
+
+CONTROLBAR:GuardUnit
+"Protéger &unité"
+End
+
+CONTROLBAR:RohanGimliRecruit
+"Héros. \n Recruter le Nain de la Montagne Solitaire \n 5 Points de commandement"
+End
+
+CONTROLBAR:RohanLegolasRecruit
+"Héros. \n Recruter le Prince de la Forêt Noire Elfes \n 5 Points de commandement"
+End
+
+CONTROLBAR:ToolTipEyeofSauron
+"Révèle les ennemis camouflés. \n +50% Dégâts +100% Experience \n Clic gauche puis clic droit sur la cible"
+End
+
+CONTROLBAR:ToolTipGuardUnit
+"Guarder une autre unité"
+End
+
+SUBTITLE:MTutori_GonO060
+"*Attaquer les murs et les portes fonctionne de la même manière…"
+End
+
+SUBTITLE:MTutori_GonO079
+"*Les Héros possèdent des pouvoirs passifs qui n'ont pas besoin d'être cliqué, comme le bonus de charisme d'Aragorn."
+End
+
+SUBTITLE:MTutori_GonO120
+"*Ces troupes seront conservés dans les missions suivantes."
+End
+
+SUBTITLE:MTutori_GonO124
+"*Pour changer la mise en formation des unités, clic gauche sur le bouton formation."
+End
+
+SUBTITLE:opening_14
+"*– pour détruire les peuples libre de la Terre du Milieu."
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/OfficialSite/ButtonClip
+"Visitez les forums de support T3A:Online sur le site de Revora"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/Register/ButtonClip
+"Vous devez vous enregistrer sur Revora pour utiliser T3A:Online"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/ServiceTerms/ButtonClip
+"Visitez le site web de T3A:Online pour plus d'infos"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
+"Enregistrez votre compte sur Revora. Completez ce champ avec le pseudo de votre nouveau compte"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
+"Les pseudos sont sensibles à la casse. Ne jamais commencer votre pseudo par - ou des lettres. Les symboles utilisés sont les suivants { } [ ] ` - | _ et ^"
+End
+
+URL:LotrHome
+"http://forums.revora.net/forum/2671-t3aonline-support-and-talk/"
+End
+
+URL:LotrLadder
+"http://online.the3rdage.net/"
+End
+
+URL:LotrTOS
+"http://online.the3rdage.net/"
+End
+
+Version:Format2
+"Version T3A 1.06"
+END
+
+Color:White
+"Blanc"
+End
+
+Map:MAPMPAndrast
+"Andrast"
+End
+
+Map:MAPMPAndrast/Desc
+"La frontière sud-ouest du Gondor entre la baie de Belfalas et la Grande Mer. Credits: Rimli \n Nombre de joueurs: 2 \n Positions de départ: Châteaux \n Points d'expansion: 2 \n Colonies: 8 \n Antres: Warg"
+End
+
+Map:MAPMPCarnen
+"Carnen"
+End
+
+Map:MAPMPCarnen/Desc
+"Le Carnen s'écoule depuis les Monts de Fer. On l'appele le Redwater, car le fer de la montagne, lui donne une teinte rouge. Credits: m@tt \n Nombre de joueurs: 2 \n Positions de départ: Châteaux \n Points d'expansion: 2 \n Colonies: 8 \n Antres: Goblin et Warg"
+End
+
+Map:MAPMPCarrock
+"Carrock"
+End
+
+Map:MAPMPCarrock/Desc
+"Un grand rocher émerge de l'Anduin, il a été nommé Le Carrock par Beorn, lequel y a taillé ses escaliers. Credits: BadMadMax \n Nombre de joueurs: 2 \n Positions de départ: Châteaux \n Points d'expansion: 2 \n Colonies: 9 \n Antres: Troll, Goblin et Warg"
+End
+
+Map:MAPMPDesolationOfSmaug
+"Desolation of Smaug"
+End
+
+Map:MAPMPDesolationOfSmaug/Desc
+"Ce désert aride a été formée par Smaug le dragon, qui a détruit le paysage environnant la Montagne Solitaire. Credits: _Haldir_ \n Nombre de joueurs: 5 \n Positions de départ: Camps \n Points d'expansion: 5 \n Colonies: 15 \n Antres: Troll et Goblin"
+End
+
+Map:MAPMPDimrillDale
+"Dimrill Dale"
+End
+
+Map:MAPMPDimrillDale/Desc
+"Au delà de la porte Est de la Moria se trouve encore cette vallée rocheuse et boisée qui entoure le Mirrormere. Credits: m@tt \n Nombre de joueurs: 6 \n Positions de départ: Châteaux \n Colonies: 18 \n Antres: Troll, Goblin et Warg"
+End
+
+Map:MAPMPDruwaithIaurWE
+"Drúwaith Iaur WE"
+End
+
+Map:MAPMPDruwaithIaurWE/Desc
+"Ces vallées, à l'ouest du Gondor, abritent ces mystérieux Drúedain. Credits: Naugrim \n Nombre de joueurs: 2 \n Positions de départ: Châteaux \n Points d'expansion: 3 \n Colonies: 8 \n Antres: Troll et Warg"
+End
+
+Map:MAPMPDunland
+"Dunland"
+End
+
+Map:MAPMPDunland/Desc
+"L'ouest des Monts Brumeux où se trouve le Pays de Dun, une région de collines dont le peuple belliqueux est sous la sombre influence de l'Isengard. Credits: _Haldir_ \n Nombre de joueurs: 7 \n Positions de départ: Camps \n Points d'expansion: 3 \n Colonies: 7 \n Antres: Troll et Warg"
+End
+
+Map:MAPMPEregion
+"Eregion"
+End
+
+Map:MAPMPEregion/Desc
+"Autrefois habité par les Elfes forgerons qui ont forgé les Anneaux de Pouvoir, Eregion a depuis été envahi et ruiné. Credits: Lex Flores \n Nombre de joueurs: 4 \n Positions de départ: Camps et Châteaux \n Colonies: 10 \n Antres: Goblin et Warg"
+End
+
+Map:MAPMPFordsOfBruinen
+"Fords of Bruinen"
+End
+
+Map:MAPMPFordsOfBruinen/Desc
+"Le Bruinen descend des Monts Brumeux et entoure le refuge elfique de Fondcombe. Credits: m@tt \n Number of Players: 4 \n Positions de départ: Châteaux \n Points d'expansion: 4 \n Colonies: 10 \n Antres: Troll et Goblin"
+End
+
+Map:MAPMPIronHills
+"Iron Hills"
+End
+
+Map:MAPMPIronHills/Desc
+"Les Monts de fer sont la source de la Redwater qui borde l'Est du pays de Rhun. Credits: _Haldir_ \n Number of Players: 3 \n Positions de départ: Camps \n Points d'expansion: 1 \n Colonies: 9 \n Antres: Troll et Goblin"
+End
+
+Map:MAPMPLamedon
+"Lamedon"
+End
+
+Map:MAPMPLamedon/Desc
+"Une région semi-montagneuse, juste au sud des Montagnes Blanches. Credits: TheFoeHammer \n Nombre de joueurs: 8 \n Positions de départ: Châteaux \n Points d'expansion: 4 \n Colonies: 16 \n Antres: Troll, Goblin et Warg"
+End
+
+Map:MAPMPLossarnach
+"Lossarnach"
+End
+
+Map:MAPMPLossarnach/Desc
+"L'un des fiefs du sud du Gondor, Lossarnach se situe dans les vallées des Montagnes Blanches. Ses prairies luxuriantes sont remplis de fleurs. Credits: _Haldir_ \n Nombre de joueurs: 6 \n Positions de départ: Camps \n Points d'expansion: 2 \n Colonies: 16 \n Antres: Goblin et Warg"
+End
+
+Map:MAPMPMinhiriath
+"Minhiriath"
+End
+
+Map:MAPMPMinhiriath/Desc
+"Minhiriath se trouve entre les rivières Grisflot et Brandywine, dans la région de l'Eriador. Autrefois peuplé, il est depuis tombée en ruine. Credits: _Haldir_ \n Nombre de joueurs: 7 \n Positions de départ: Châteaux \n Points d'expansion: 2 \n Colonies: 21 \n Antres: Troll et Warg"
+End
+
+Map:MAPMPOldFordOfAnduin
+"Old Ford of Anduin"
+End
+
+Map:MAPMPOldFordOfAnduin/Desc
+"L'Anduin coule entre les Monts Brumeux et la Forêt Noire, le gué fait partie de la route de la vielle forêt. Credits: m@tt \n Nombre de joueurs: 4 \n Positions de départ: Châteaux \n Points d'expansion: 2 \n Colonies: 16 \n Antres: Goblin et Warg"
+End
+
+Map:MAPMPSouthRhun
+"South Rhun"
+End
+
+Map:MAPMPSouthRhun/Desc
+"Les cavaliers masqués de Rhûn sont venu habiter dans ces contrées poussiéreuses et ont formés de alliances avec Khand et Harad. Credits: Dennis Agodzo \n Nombre de joueurs: 6 \n Positions de départ: Camps \n Points d'expansion: 2 \n Colonies: 10 \n Antres: Troll et Goblin"
+End
+
+Map:MAPMPTharbad
+"Tharbad"
+End
+
+Map:MAPMPTharbad/Desc
+"La vieille route du Sud passe par l'ancienne ville de Tharbad, les ruines de son ancien grand pont en font maintenant un passage dangereux. Credits: _Haldir_ \n Nombre de joueurs: 3 \n Positions de départ: Châteaux \n Points d'expansion: 1 \n Colonies: 15 \n Antres: Troll et Goblin"
+End
