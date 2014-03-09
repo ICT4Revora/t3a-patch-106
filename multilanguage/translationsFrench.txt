@@ -63,11 +63,11 @@ CONTROLBAR:RohanLegolasRecruit
 End
 
 CONTROLBAR:ToolTipEyeofSauron
-"Révèle les ennemis camouflés. \n +50% Dégâts +100% Experience \n Clic gauche puis clic droit sur la cible"
+"Révèle les ennemis camouflés. \n +50% Dégâts +100% Expérience \n Clic gauche puis clic droit sur la cible"
 End
 
 CONTROLBAR:ToolTipGuardUnit
-"Guarder une autre unité"
+"Garder une autre unité"
 End
 
 SUBTITLE:MTutori_GonO060
@@ -103,7 +103,7 @@ TOOLTIP:OnlineShell/OnlineLogin/Login/ServiceTerms/ButtonClip
 End
 
 TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
-"Enregistrez votre compte sur Revora. Completez ce champ avec le pseudo de votre nouveau compte"
+"Enregistrez votre compte sur Revora. Complétez ce champ avec le pseudo de votre nouveau compte"
 End
 
 TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
@@ -155,15 +155,15 @@ Map:MAPMPCarrock/Desc
 End
 
 Map:MAPMPDesolationOfSmaug
-"Desolation of Smaug"
+"La Désolation de Smaug"
 End
 
 Map:MAPMPDesolationOfSmaug/Desc
-"Ce désert aride a été formée par Smaug le dragon, qui a détruit le paysage environnant la Montagne Solitaire. Credits: _Haldir_ \n Nombre de joueurs: 5 \n Positions de départ: Camps \n Points d'expansion: 5 \n Colonies: 15 \n Antres: Troll et Goblin"
+"Ce désert aride a été formé par Smaug le dragon, qui a détruit le paysage environnant la Montagne Solitaire. Credits: _Haldir_ \n Nombre de joueurs: 5 \n Positions de départ: Camps \n Points d'expansion: 5 \n Colonies: 15 \n Antres: Troll et Goblin"
 End
 
 Map:MAPMPDimrillDale
-"Dimrill Dale"
+"Vallée des Rigoles Sombres"
 End
 
 Map:MAPMPDimrillDale/Desc
@@ -179,7 +179,7 @@ Map:MAPMPDruwaithIaurWE/Desc
 End
 
 Map:MAPMPDunland
-"Dunland"
+"Pays de Dun"
 End
 
 Map:MAPMPDunland/Desc
@@ -195,7 +195,7 @@ Map:MAPMPEregion/Desc
 End
 
 Map:MAPMPFordsOfBruinen
-"Fords of Bruinen"
+"Gués de Bruinen"
 End
 
 Map:MAPMPFordsOfBruinen/Desc
@@ -203,7 +203,7 @@ Map:MAPMPFordsOfBruinen/Desc
 End
 
 Map:MAPMPIronHills
-"Iron Hills"
+"Monts de Fer"
 End
 
 Map:MAPMPIronHills/Desc
@@ -235,7 +235,7 @@ Map:MAPMPMinhiriath/Desc
 End
 
 Map:MAPMPOldFordOfAnduin
-"Old Ford of Anduin"
+"Ancien gué de l'Anduin"
 End
 
 Map:MAPMPOldFordOfAnduin/Desc
@@ -243,11 +243,11 @@ Map:MAPMPOldFordOfAnduin/Desc
 End
 
 Map:MAPMPSouthRhun
-"South Rhun"
+"Sud de Rhun"
 End
 
 Map:MAPMPSouthRhun/Desc
-"Les cavaliers masqués de Rhûn sont venu habiter dans ces contrées poussiéreuses et ont formés de alliances avec Khand et Harad. Credits: Dennis Agodzo \n Nombre de joueurs: 6 \n Positions de départ: Camps \n Points d'expansion: 2 \n Colonies: 10 \n Antres: Troll et Goblin"
+"Les cavaliers masqués de Rhûn sont venu habiter dans ces contrées poussiéreuses et ont formés des alliances avec Khand et Harad. Credits: Dennis Agodzo \n Nombre de joueurs: 6 \n Positions de départ: Camps \n Points d'expansion: 2 \n Colonies: 10 \n Antres: Troll et Goblin"
 End
 
 Map:MAPMPTharbad
