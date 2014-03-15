@@ -5,7 +5,7 @@
 AppName=T3A Patch for BFME 1
 AppVersion=1.06
 AppId=T3APATCH106
-DefaultDirName={reg:HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\lotrbfme.exe,Path}
+DefaultDirName={reg:HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\lotrbfme.exe,Path|{pf}\EA GAMES\The Battle for Middle-earth (tm)}
 DisableDirPage=no
 DirExistsWarning=no
 Compression=lzma2
