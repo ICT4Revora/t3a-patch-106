@@ -1,0 +1,259 @@
+APT:DisconnectRules
+"Jeden lub wiêcej graczy utraci³o po³¹czenie z gr¹ \n Gracze mog¹ powróciæ, aby kontynuowaæ grê; jednak mo¿liwe jest, ¿e \n gracze próbuj¹ oszukaæ poprawny zapis zwyciêstw/pora¿ek w systemie. \n Jeœli chcesz z³o¿yæ skargê, proszê klikn¹æ na link "Zg³oœ oszustów" na stronie internetowej gry."
+End
+
+APT:ESRBNotice
+"T3A:Online, spo³ecznoœciowy serwer BFME. SprawdŸ online.the3rdage.net po aktualnoœci i wiêcej"
+End
+
+APT:OfficialSite
+"FORUM"
+End
+
+APT:OnlineEAAccountName
+"Nazwa Konta Revora"
+End
+
+APT:Password
+"Has³o T3A:Online"
+End
+
+APT:ServiceTerms
+"OFICJALNA STRONA"
+End
+
+Color:Pink
+"Ró¿owy"
+End
+
+CONTROLBAR:ConstructCamp
+"(&C)Obóz"
+End
+
+CONTROLBAR:ConstructCastle
+"(&C)Zamek"
+End
+
+CONTROLBAR:ConstructOutpost
+"(&C)Posterunek"
+End
+
+CONTROLBAR:EyeofSauron
+"(&Y)Oko Saurona"
+End
+
+CONTROLBAR:GandalfTheWhiteRecruit
+"Bohater.\n Rekrutuje czarodzieja wyposa¿onego w potê¿ne moce magiczne \n 10 Punktów Dowodzenia"
+End
+
+CONTROLBAR:GondorAragornRecruit
+"Bohater. \n Rekrutuje Nastêpcê tronu Gondoru \n 5 Punktów Dowodzenia"
+End
+
+CONTROLBAR:GuardUnit
+"(&U)Strze¿ jednostki"
+End
+
+CONTROLBAR:RohanGimliRecruit
+"Bohater. \n Rekrutuje Krasnoluda z Samotnej Góry \n 5 Punktów Dowodzenia"
+End
+
+CONTROLBAR:RohanLegolasRecruit
+"Bohater. \n Rekrutuje Ksiêcia Elfów z Mrocznej Puszczy \n 5 Punktów Dowodzenia"
+End
+
+CONTROLBAR:ToolTipEyeofSauron
+"Odkrywa ukryte jednostki wroga. \n +50% Obra¿eñ +100% Doœwiadczenia \n Kliknij LPM, potem PPM na cel"
+End
+
+CONTROLBAR:ToolTipGuardUnit
+"Strze¿e innej jednostki"
+End
+
+SUBTITLE:MTutori_GonO060
+"*Atakowanie murów i bram przebiega w ten sam sposób…"
+End
+
+SUBTITLE:MTutori_GonO079
+"*Niektórzy Bohaterowie posiadaj¹ bierne zdolnoœci, których nie trzeba uruchamiaæ klikniêciem, takie jak morale dawane przez Aragorna."
+End
+
+SUBTITLE:MTutori_GonO120
+"*Te oddzia³y zostan¹ “przeniesione” do dalszych misji."
+End
+
+SUBTITLE:MTutori_GonO124
+"*Aby zmieniæ formacjê jednostki, kliknij LPM na przycisk formacji."
+End
+
+SUBTITLE:opening_14
+"*– aby zniszczyæ Wolne Ludy Œródziemia."
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/OfficialSite/ButtonClip
+"IdŸ do forum pomocy T3A:Online Revora"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/Register/ButtonClip
+"Musisz zarejestrowaæ siê na forum Revora, aby u¿ywaæ T3A:Online"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/ServiceTerms/ButtonClip
+"IdŸ do strony T3A:Online, aby zobaczyæ aktualnoœci i instrukcje"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
+"Zarejestruj swoje konto na forum Revora. Wype³nij to pole now¹ nazw¹ konta"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
+"Nicknames are case sensitive. Nigdy nie zaczynaj nicku od - lub cyfr. Dozwolone znaki to { } [ ] ` - | _ i ^"
+End
+
+URL:LotrHome
+"http://forums.revora.net/forum/2671-t3aonline-support-and-talk/"
+End
+
+URL:LotrLadder
+"http://online.the3rdage.net/"
+End
+
+URL:LotrTOS
+"http://online.the3rdage.net/"
+End
+
+Version:Format2
+"Wersja T3A 1.06"
+END
+
+Color:White
+"Bia³y"
+End
+
+Map:MAPMPAndrast
+"Andrast"
+End
+
+Map:MAPMPAndrast/Desc
+"Po³udniowo-zachodnie rubie¿e Gondoru pomiêdzy Zatok¹ Belfalas i Wielkim Morzem. Podziêkowania: Rimli \n Liczba Graczy: 2 \n Pozycje Startowe: Zamki \n Punkty Ekspansji: 2 \n Osady: 8 \n Legowiska: Warg"
+End
+
+Map:MAPMPCarnen
+"Carnen"
+End
+
+Map:MAPMPCarnen/Desc
+"Carnen sp³ywa z ¯elaznych Wzgórz. Jest znana jako Czerwona Rzeka, poniewa¿ ¿elazo z gór nadaje jej czerwone zabarwienie. Podziêkowania: m@tt \n Liczba Graczy: 2 \n Pozycje Startowe: Zamki \n Punkty Ekspansji: 2 \n Osady: 8 \n Legowiska: Gobliny i Wargi"
+End
+
+Map:MAPMPCarrock
+"Samotna Ska³a"
+End
+
+Map:MAPMPCarrock/Desc
+"Wysoka ska³a, wznosz¹ca siê nad Anduin¹, zosta³a nazwana Samotn¹ Ska³¹ przez Beorna, który wyku³ w niej schody. Podziêkowania: BadMadMax \n Liczba Graczy: 2 \n Pozycje Startowe: Zamki \n Punkty Ekspansji: 2 \n Osady: 9 \n Legowiska: Trole, Gobliny i Wargi"
+End
+
+Map:MAPMPDesolationOfSmaug
+"Pustkowie Smauga"
+End
+
+Map:MAPMPDesolationOfSmaug/Desc
+"To ja³owe pustkowie zosta³o ufromowane przez Smoka Smauga. który zniszczy³ swoim piekielnym ogniem krajobraz otaczaj¹cy Samotn¹ Górê. Podziêkowania: _Haldir_ \n Liczba Graczy: 5 \n Pozycje Startowe: Obozy \n Punkty Ekspansji: 5 \n Osady: 15 \n Legowiska: Trole and Gobliny"
+End
+
+Map:MAPMPDimrillDale
+"Dolina Dimrill"
+End
+
+Map:MAPMPDimrillDale/Desc
+"Przed wschodni¹ bram¹ Morii znajduje siê skalista, lecz zalesiona dolina, otaczaj¹ca Mirrormere. Podziêkowania: m@tt \n Liczba Graczy: 6 \n Pozycje Startowe: Zamki \n Osady: 18 \n Legowiska: Trole, Gobliny i Wargi"
+End
+
+Map:MAPMPDruwaithIaurWE
+"Drúwaith Iaur WE"
+End
+
+Map:MAPMPDruwaithIaurWE/Desc
+"Doliny te, na zachód od Gondoru, s¹ domem tajemniczych Drúedainów. Podziêkowania: Naugrim \n Liczba Graczy: 2 \n Pozycje startowe: Zamki \n Punkty ekspansji: 3 \n Osady: 8 \n Legowiska: Trole i Wargi"
+End
+
+Map:MAPMPDunland
+"Dunland"
+End
+
+Map:MAPMPDunland/Desc
+"Na zachód od Gór Mglistych le¿y Dunland, wzgórzysty region, którego wojowniczy mieszkañcy znajduj¹ siê pod mrocznym wp³ywem Isengardu. Podziêkowania: _Haldir_ \n Liczna Graczy: 7 \n Pozycje startowe: Obozy \n Punkty Ekspansji: 3 \n Osady: 7 \n Legowiska: Trole i Wargi"
+End
+
+Map:MAPMPEregion
+"Eregion"
+End
+
+Map:MAPMPEregion/Desc
+"Niegdyœ ojczyzna elfickich kowali, którzy wykuli Pierœcienie W³adzy, obecnie Eregion sta³ siê zaroœniêty i zrujnowany. Podziêkowania: Lex Flores \n Liczba Graczy: 4 \n Pozycje Startowe: Obozy i Zamki \n Osady: 10 \n Legowiska: Gobliny i Wargi"
+End
+
+Map:MAPMPFordsOfBruinen
+"Brody na Bruinie"
+End
+
+Map:MAPMPFordsOfBruinen/Desc
+"Bruina sp³ywa z Gór Mglistych i otacza elfickie schronienie w Rivendell. Podziêkowania: m@tt \n Liczba Graczy: 4 \n Pozycje Startowe: Zamki \n Punkty Ekspansji: 4 \n Osady: 10 \n Legowiska: Trole i Gobliny"
+End
+
+Map:MAPMPIronHills
+"¯elazne Wzgórza"
+End
+
+Map:MAPMPIronHills/Desc
+"¯elazne Wzgórza s¹ Ÿród³em Czerwonej Rzeki, która graniczy ze wschodni¹ krain¹ Rhun. Podziêkowania: _Haldir_ \n Liczba Graczy: 3 \n Pozycje Startowe: Obozy \n Punkty Ekspansji: 1 \n Osady: 9 \n Legowiska: Trole i Gobliny"
+End
+
+Map:MAPMPLamedon
+"Lamedon"
+End
+
+Map:MAPMPLamedon/Desc
+"Górzysty region, le¿¹cy na po³udnie od Gór Bia³ych. Podziêkowania: TheFoeHammer \n Liczba Graczy: 8 \n Pozycje Startowe: Zamki \n Punkty Ekspansji: 4 \n Osady: 16 \n Legowiska: Trole, Gobliny i Wargi"
+End
+
+Map:MAPMPLossarnach
+"Lossarnach"
+End
+
+Map:MAPMPLossarnach/Desc
+"Jedno z po³udniowych lenn Gondoru. Lossarnach le¿y w dolinach Gór Bia³ych. Jego bujne sawanny pe³ne s¹ kwiatów. Podziêkowania: _Haldir_ \n Liczba Graczy: 6 \n Pozycje Startowe: Obozy \n Punkty Ekspansji: 2 \n Osady: 16 \n Legowiska: Gobliny i Wargi"
+End
+
+Map:MAPMPMinhiriath
+"Minhiriath"
+End
+
+Map:MAPMPMinhiriath/Desc
+"Minhiriath le¿y w Eriadorze, miêdzy Szar¹ Rzek¹ i Brandywin¹. Niegdyœ zamieszka³e, obecnie popada w ruinê. Podziêkowania: _Haldir_ \n Liczba Graczy: 7 \n Pozycje Startowe: Zamki \n Punkty Ekspansji: 2 \n Osady: 21 \n Legowiska: Trole i Wargi"
+End
+
+Map:MAPMPOldFordOfAnduin
+"Stary bród na Anduinie"
+End
+
+Map:MAPMPOldFordOfAnduin/Desc
+"Anduina p³ynie przez Góry Mgliste i Mroczn¹ Puszczê, a bród jest czêœci¹ Starej Drogi Leœnej. Podziêkowania: m@tt \n Liczba Graczy: 4 \n Pozycje Startowe: Zamki \n Punkty Ekspansji: 2 \n Osady: 16 \n Legowiska: Gobliny i Wargi"
+End
+
+Map:MAPMPSouthRhun
+"Po³udniowe Rhun"
+End
+
+Map:MAPMPSouthRhun/Desc
+"WoŸnicy z Rhun zamieszkali w tych piaszczystych krainach i zawarli sojusz z Khandem i Haradem. Podziêkowania: Dennis Agodzo \n Liczba Graczy: 6 \n Pozycje Startowe: Obozy \n Punkty Ekspansji: 2 \n Osady: 10 \n Legowiska: Trole i Gobliny"
+End
+
+Map:MAPMPTharbad
+"Tharbad"
+End
+
+Map:MAPMPTharbad/Desc
+"Stara Droga Leœna przebiega przez staro¿ytne miasto Tharbad. Ruiny jego niegdyœ potê¿nego mostu s¹ teraz niebezpiecznym brodem. Podziêkowania: _Haldir_ \n Liczba Graczy: 3 \n Pozycje Startowe: Zamki \n Punkty Ekspansji: 1 \n Osady: 15 \n Legowiska: Trole i Gobliny"
+End
