@@ -35,7 +35,7 @@ APT:DisconnectRules
 End
 
 APT:ESRBNotice
-"T3A:Online, сообщество создателей BfME сервера. Смотрите на online.the3rdage.net новости и подробности."
+"T3A:Online, сообщество создателей BfME сервера. Подробности смотрите на online.the3rdage.net."
 End
 
 APT:OfficialSite
