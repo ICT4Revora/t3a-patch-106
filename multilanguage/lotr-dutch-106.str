@@ -511,7 +511,7 @@ APT:ErrorEAX3On
 End
 
 APT:ESRBNotice
-"T3A:Online, een community-made BFME server Check online.the3rdage.net voor nieuws & meer"
+	"T3A:Online, een community-made BFME server Check online.the3rdage.net voor nieuws & meer"
 End
 
 APT:EvilCampaign
@@ -1051,7 +1051,7 @@ Apt:OfficialMaps
 End
 
 APT:OfficialSite
-"SUPPORT FORUMS"
+	"SUPPORT FORUMS"
 End
 
 APT:OFFICIALWEBSITE
@@ -1075,7 +1075,7 @@ APT:OnlineDeleteNickname
 End
 
 APT:OnlineEAAccountName
-"Revora Accountnaam"
+	"Revora Accountnaam"
 End
 
 APT:OnlineIP
@@ -1143,7 +1143,7 @@ APT:ParticleCap
 End
 
 APT:Password
-"T3A:Online Wachtwoord"
+	"T3A:Online Wachtwoord"
 End
 
 APT:Pause
@@ -1443,7 +1443,7 @@ APT:SendDelay
 End
 
 APT:ServiceTerms
-"OFFICIËLE WEBSITE"
+	"OFFICIËLE WEBSITE"
 End
 
 APT:ShowAnimations
@@ -3030,6 +3030,10 @@ Color:SkyBlue
 	"Cyaan"
 End
 
+Color:White
+	"Wit"
+End
+
 CONTROLBAR:Anduril
 	"Andúril"
 End
@@ -3143,11 +3147,11 @@ CONTROLBAR:CommunicatorDescription
 End
 
 CONTROLBAR:ConstructCamp
-"(&C)Kamp"
+	"(&C)Kamp"
 End
 
 CONTROLBAR:ConstructCastle
-"(&C)Kasteel"
+	"(&C)Kasteel"
 End
 
 CONTROLBAR:ConstructEconomyPlot
@@ -3535,7 +3539,7 @@ CONTROLBAR:ConstructNumenorStoneworkUpgrade
 End
 
 CONTROLBAR:ConstructOutpost
-"(&C)Buitenpost"
+	"(&C)Buitenpost"
 End
 
 CONTROLBAR:ConstructReinforcedGateUpgrade
@@ -3823,7 +3827,7 @@ CONTROLBAR:GandalfTheWhiteHotkey
 End
 
 CONTROLBAR:GandalfTheWhiteRecruit
-"Held.\n Rekruteer een tovenaar die een gewapend is met een arsenaal machtige magische krachten \n 10 Commandopunten"
+	"Held.\n Rekruteer een tovenaar die een gewapend is met een arsenaal machtige magische krachten \n 10 Commandopunten"
 End
 
 CONTROLBAR:GandalfTheWhiteRevive
@@ -3867,7 +3871,7 @@ CONTROLBAR:GondorAragornHotkey
 End
 
 CONTROLBAR:GondorAragornRecruit
-"Held. \n Rekruteer de Troonopvolger van Gondor. \n 5 Commandopunten"
+	"Held. \n Rekruteer de Troonopvolger van Gondor. \n 5 Commandopunten"
 End
 
 CONTROLBAR:GondorAragornRevive
@@ -4399,7 +4403,7 @@ CONTROLBAR:RohanGimliHotkey
 End
 
 CONTROLBAR:RohanGimliRecruit
-"Held. \n Rekruteer de Dwerg van de Eenzame Berg \n 5 Commandopunten"
+	"Held. \n Rekruteer de Dwerg van de Eenzame Berg \n 5 Commandopunten"
 End
 
 CONTROLBAR:RohanGimliRevive
@@ -4411,7 +4415,7 @@ CONTROLBAR:RohanLegolasHotkey
 End
 
 CONTROLBAR:RohanLegolasRecruit
-"Held. \n Rekruteer de Prins van de Elfen uit Demsterwold \n 5 Commandopunten"
+	"Held. \n Rekruteer de Prins van de Elfen uit Demsterwold \n 5 Commandopunten"
 End
 
 CONTROLBAR:RohanLegolasRevive
@@ -5283,7 +5287,7 @@ CONTROLBAR:ToolTipEvilBuildSentryTower
 End
 
 CONTROLBAR:ToolTipEyeofSauron
-"Maakt verscholen vijanden zichtbaar. \n +50% Schade +100% Ervaring \n Klik met links en daarna met rechts om te selecteren"
+	"Maakt verscholen vijanden zichtbaar. \n +50% Schade +100% Ervaring \n Klik met links en daarna met rechts om te selecteren"
 End
 
 CONTROLBAR:ToolTipFaramirKnightRanger
@@ -19966,12 +19970,12 @@ FtpError:NoSuchFile
 	"Fout. Je netwerkverbinding werd verbroken. Maak opnieuw verbinding om het downloaden van de patch te voltooien."
 End
 
-GUI:$$$
-	"$$$"
-End
-
 GUI:???
 	"???"
+End
+
+GUI:$$$
+	"$$$"
 End
 
 GUI:3DSound
@@ -24110,6 +24114,14 @@ Map:MAPGOODShelobsLair
 	"Cirith Ungol (Goed)"
 End
 
+Map:MAPMPAndrast
+	"Andrast"
+End
+
+Map:MAPMPAndrast/Desc
+	"De zuidwestelijke grens van Gondor tussen de Baai van Belfalas en de Grote Zee. Credits: Rimli \n Aantal spelers: 2 \n Startposities: Kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 8 \n Schuilplaatsen: Warg"
+End
+
 Map:MAPMPAnfalas
 	"Anfalas"
 End
@@ -24158,6 +24170,22 @@ Map:MAPMPCairAndros/Desc
 	"Een oud eilandfort van Gondor in de rivier Anduin, ten noorden van Osgiliath. \n Aantal spelers: 3 \n Startposities: kastelen \n Uitbreidingspunten: 4 \n Nederzettingen: 9 \n Schuilplaatsen: Trol en Warg \n"
 End
 
+Map:MAPMPCarnen
+	"Carnen"
+End
+
+Map:MAPMPCarnen/Desc
+	"De Carnen stroomt van de IJzerheuvels af. Het staat bekend als Roodwater, omdat het ijzer van de bergen het een rode tint geeft. Credits: m@tt \n Aantal spelers: 2 \n Startposities: Kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 8 \n Schuilplaatsen: Aardman en Warg"
+End
+
+Map:MAPMPCarrock
+	"Carrock"
+End
+
+Map:MAPMPCarrock/Desc
+	"Een hoge rots die oprijst uit de Anduin, het is door Beorn De Carrock genoemd, die er een trap in kerfde. Credits: BadMadMax \n Aantal spelers: 2 \n Startposities: Kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 9 \n Schuilplaatsen: Trol, Aardman en Warg"
+End
+
 Map:MAPMPCentralIthilien
 	"Centraal-Ithilien"
 End
@@ -24190,6 +24218,22 @@ Map:MAPMPDeadMarshes/Desc
 	"Een spookmoeras dat net buiten Mordor ligt. Gollem leidde Frodo en Sam door deze moerassen op weg naar de Doemberg. \n Aantal spelers: 6 \n Startposities: kampen \n Uitbreidingspunten: 4 \n Nederzettingen: 14 \n Schuilplaatsen: Aardman \n Restricties: geen bestormingsladders of belegeringstorens \n"
 End
 
+Map:MAPMPDesolationOfSmaug
+	"Verwoesting van Smaug"
+End
+
+Map:MAPMPDesolationOfSmaug/Desc
+	"Deze woestenij is gevormd door Smaug de Draak, die het gebied rond de Eenzame Berg heeft vernietigd. Credits: _Haldir_ \n Aantal spelers: 5 \n Startposities: Kampen \n Uitbreidingspunten: 5 \n Nederzettingen: 15 \n Schuilplaatsen: Trol en Aardman"
+End
+
+Map:MAPMPDimrillDale
+	"Deemrildal"
+End
+
+Map:MAPMPDimrillDale/Desc
+	"Buiten de oost poort van Moria ligt deze rotsachtige maar toch beboste vallei die om het Spiegelmeer ligt. Credits: m@tt \n Aantal spelers: 6 \n Startposities: Kastelen \n Nederzettingen: 18 \n Schuilplaatsen: Trol, Aardman en Warg"
+End
+
 Map:MAPMPDruadanForest
 	"Druadanwoud"
 End
@@ -24198,12 +24242,28 @@ Map:MAPMPDruadanForest/Desc
 	"Een oud woud aan de voet van de Witte Bergen, ten noordwesten van Minas Tirith. \n Aantal spelers: 4 \n Startposities: kastelen \n Uitbreidingspunten: 4 \n Nederzettingen: 16 \n Schuilplaatsen: Aardman \n"
 End
 
+Map:MAPMPDruwaithIaurWE
+	"Drúwaith Iaur WE"
+End
+
+Map:MAPMPDruwaithIaurWE/Desc
+	"Deze valleien, ten zuiden van Gondor, zijn de thuisbasis van de mysterieuze Drúedain. Credits: Naugrim \n Aantal spelers: 2 \n Startposities: Kastelen \n Uitbreidingspunten: 3 \n Nederzettingen: 8 \n Schuilplaatsen: Trol en Warg"
+End
+
 Map:MAPMPDunharrow
 	"Dunharrow"
 End
 
 Map:MAPMPDunharrow/Desc
 	"Een verzamelplaats voor het volk van Rohan, aan de voet van de Witte Bergen. \n Aantal spelers: 2 \n Startposities: kastelen \n Uitbreidingspunten: 4 \n Nederzettingen: 8 \n Schuilplaatsen: Trol, Aardman en Warg \n"
+End
+
+Map:MAPMPDunland
+	"Donkerland"
+End
+
+Map:MAPMPDunland/Desc
+	"Ten westen van de Nevelbergen ligt Donkerland, een heuvelachtige regio wiens oorlogzuchtige volk onder de duistere invloed van Isengard is. Credits: _Haldir_ \n Aantal spelers: 7 \n Startposities: Kampen \n Uitbreidingspunten: 3 \n Nederzettingen: 7 \n Schuilplaatsen: Trol en Warg"
 End
 
 Map:MAPMPEastEmnet
@@ -24262,12 +24322,28 @@ Map:MAPMPEnedwaith/Desc
 	"Een wijds, open land dat ten westen van Rohan ligt. \n Aantal spelers: 8 \n Startposities: buitenposten \n Uitbreidingspunten: 8 \n Nederzettingen: 16 \n Schuilplaatsen: Trol en Aardman \n Restricties: geen bestormingsladders of belegeringstorens \n"
 End
 
+Map:MAPMPEregion
+	"Eregion"
+End
+
+Map:MAPMPEregion/Desc
+	"Eens de thuisbasis van de Elfensmeden die de Ringen van Macht smeedden, nu is Eregion overwoekerd en een ruïne. Credits: Lex Flores \n Aantal spelers: 4 \n Startposities: Kampen en Kastelen \n Nederzettingen: 10 \n Schuilplaatsen: Aardman en Warg"
+End
+
 Map:MAPMPFangorn
 	"Fangorn-woud"
 End
 
 Map:MAPMPFangorn/Desc
 	"Een mysterieus en donker woud waar Boombaard en de Enten wonen. \n Aantal spelers: 2 \n Startposities: kastelen \n Uitbreidingspunten: 4 \n Nederzettingen: 10 \n Schuilplaatsen: Trol en Aardman \n"
+End
+
+Map:MAPMPFordsOfBruinen
+	"Voorde van de Bruinen"
+End
+
+Map:MAPMPFordsOfBruinen/Desc
+	"De Bruinen stroomt van de Nevelbergen af en omringt de Elfenstad Rivendell. Credits: m@tt \n Aantal spelers: 4 \n Startposities: Kastelen \n Uitbreidingspunten: 4 \n Nederzettingen: 10 \n Schuilplaatsen: Trol en Aardman"
 End
 
 Map:MAPMPFordsofIsen
@@ -24310,12 +24386,44 @@ Map:MAPMPHarondor/Desc
 	"Zanderige, rotsachtige heuvels ten westen van Harad en ten zuiden van Gondor. \n Aantal spelers: 6 \n Startposities: kampen \n Uitbreidingspunten: 8 \n Nederzettingen: 12 \n Schuilplaatsen: Warg \n Restricties: geen bestormingsladders of belegeringstorens \n"
 End
 
+Map:MAPMPIronHills
+	"IJzerheuvels"
+End
+
+Map:MAPMPIronHills/Desc
+	"De IJzerheuvels zijn de bron van het Roodwater die de grens vormt met het oostelijke land Rhûn. Credits: _Haldir_ \n Aantal spelers: 3 \n Startposities: Kampen \n Uitbreidingspunten: 1 \n Nederzettingen: 9 \n Schuilplaatsen: Trol en Aardman"
+End
+
+Map:MAPMPLamedon
+	"Lamedon"
+End
+
+Map:MAPMPLamedon/Desc
+	"Een semi bergachtige regio net ten zuiden van de Witte Bergen. Credits: TheFoeHammer \n Aantal spelers: 8 \n Startposities: Kastelen \n Uitbreidingspunten: 4 \n Nederzettingen: 16 \n Schuilplaatsen: Trol, Aardman en Warg"
+End
+
 Map:MAPMPLebennin
 	"Lebennin"
 End
 
 Map:MAPMPLebennin/Desc
 	"Dit dichtbegroeide groene land in het zuiden van Gondor ligt waar de rivier Anduin uitmondt in de Baai van Belfalas. \n Aantal spelers: 6 \n Startposities: kampen \n Uitbreidingspunten: 2 \n Nederzettingen: 12 \n Schuilplaatsen: Trol, Aardman en Warg \n Restricties: geen bestormingsladders of belegeringstorens \n"
+End
+
+Map:MAPMPLossarnach
+	"Lossarnach"
+End
+
+Map:MAPMPLossarnach/Desc
+	"Eén van Gondors zuidelijke leengoederen, Lossarnach ligt in de valleien van de Witte Bergen. De weelderige graslanden staan vol bloemen. Credits: _Haldir_ \n Aantal spelers: 6 \n Startposities: Kampen \n Uitbreidingspunten: 2 \n Nederzettingen: 16 \n Schuilplaatsen: Aardman en Warg"
+End
+
+Map:MAPMPMinhiriath
+	"Minhiriath"
+End
+
+Map:MAPMPMinhiriath/Desc
+	"Minhiriath ligt tussen de Grijsvloed en Brandewijn rivieren, in de regio Eriador. Eens bevolkt, nu vervallen tot ruïnes. Credits: _Haldir_ \n Aantal spelers: 7 \n Start Posities: Kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 21 \n Schuilplaatsen: Trol en Warg"
 End
 
 Map:MAPMPMirkwood
@@ -24364,6 +24472,14 @@ End
 
 Map:MAPMPNurn/Desc
 	"Het zuidelijke deel van Mordor dat een grote binnenzee omsluit. \n Aantal spelers: 6 \n Startposities: kampen \n Uitbreidingspunten: 3 \n Nederzettingen: 8 \n Schuilplaatsen: Trol \n Restricties: geen bestormingsladders of belegeringstorens \n"
+End
+
+Map:MAPMPOldFordOfAnduin
+	"Oude Voorde van de Anduin"
+End
+
+Map:MAPMPOldFordOfAnduin/Desc
+	"De Anduin stroomt tussen de Nevelbergen en Demsterwold, en de voorde is onderdeel van de Oude Bosweg. Credits: m@tt \n Aantal spelers: 4 \n Startposities: Kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 16 \n Schuilplaatsen: Aardman en Warg"
 End
 
 Map:MAPMPOsgiliath
@@ -24440,6 +24556,22 @@ End
 
 Map:MAPMPSouthernIthilien/Desc
 	"De vruchtbare, bosrijke omgeving in zuidelijk Gondor. \n Aantal spelers: 2 \n Startposities: kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 6 \n Schuilplaatsen: Aardman \n"
+End
+
+Map:MAPMPSouthRhun
+	"Zuid-Rhûn"
+End
+
+Map:MAPMPSouthRhun/Desc
+	"De Wagenrijders van Rhûn kwamen in deze stoffige landen om zich hier te vestigen en vormde bondgenootschappen met Khand en Harad. Credits: Dennis Agodzo \n Aantal spelers: 6 \n Startposities: Kampen \n Uitbreidingspunten: 2 \n Nederzettingen: 10 \n Schuilplaatsen: Trol en Aardman"
+End
+
+Map:MAPMPTharbad
+	"Tharbad"
+End
+
+Map:MAPMPTharbad/Desc
+	"De Oude Zuidelijke Route loopt door de eeuwenoude stad Tharbad, de ruïnes van zijn eens grootse brug is nu een gevaarlijke voorde. Credits: _Haldir_ \n Aantal spelers: 3 \n Startposities: Kastelen \n Uitbreidingspunten: 1 \n Nederzettingen: 15 \n Schuilplaatsen: Trol en Aardman"
 End
 
 Map:MAPMPWestEmnet
@@ -30531,7 +30663,7 @@ TOOLTIP:OnlineShell/OnlineLogin/Login/Login/buttonClip
 End
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/OfficialSite/ButtonClip
-"Ga naar de T3A:Online support forums op Revora"
+	"Ga naar de T3A:Online support forums op Revora"
 End
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/popupLocale/Accept/buttonClip
@@ -30539,19 +30671,19 @@ TOOLTIP:OnlineShell/OnlineLogin/Login/popupLocale/Accept/buttonClip
 End
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/Register/ButtonClip
-"Je moet je registreren op Revora om T3A:Online te gebruiken"
+	"Je moet je registreren op Revora om T3A:Online te gebruiken"
 End
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/ServiceTerms/ButtonClip
-"Ga naar de T3A:Online website voor nieuws en instructies"
+	"Ga naar de T3A:Online website voor nieuws en instructies"
 End
 
 TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
-"Registreer jouw account op Revora. Vul in dit veld jouw nieuwe accountnaam in"
+	"Registreer jouw account op Revora. Vul in dit veld jouw nieuwe accountnaam in"
 End
 
 TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
-"Bijnamen zijn hoofdletter gevoelig. Begin nooit je naam met - of getallen. Toegestane symbolen zijn { } [ ] ` - | _ en ^"
+	"Bijnamen zijn hoofdletter gevoelig. Begin nooit je naam met - of getallen. Toegestane symbolen zijn { } [ ] ` - | _ en ^"
 End
 
 TOOLTIP:OnlineShell/OnlineLogin/tooltipRememberMe
@@ -31419,15 +31551,15 @@ UPGRADE:UpgradeComplete
 End
 
 URL:LotrHome
-"http://forums.revora.net/forum/2671-t3aonline-support-and-talk/"
+	"http://forums.revora.net/forum/2671-t3aonline-support-and-talk/"
 End
 
 URL:LotrLadder
-"http://online.the3rdage.net/"
+	"http://online.the3rdage.net/"
 End
 
 URL:LotrTOS
-"http://online.the3rdage.net/"
+	"http://online.the3rdage.net/"
 End
 
 Version:BuildMachine
@@ -31443,7 +31575,7 @@ Version:BuildUser
 End
 
 Version:Format2
-"Versie T3A 1.06"
+	"Versie T3A 1.06"
 End
 
 Version:Format3
@@ -31932,136 +32064,4 @@ End
 
 WOL:UserKicked
 	"%ls heeft %ls uit %ls gezet"
-End
-
-Color:White
-"Wit"
-End
-
-Map:MAPMPAndrast
-"Andrast"
-End
-
-Map:MAPMPAndrast/Desc
-"De zuidwestelijke grens van Gondor tussen de Baai van Belfalas en de Grote Zee. Credits: Rimli \n Aantal spelers: 2 \n Startposities: Kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 8 \n Schuilplaatsen: Warg"
-End
-
-Map:MAPMPCarnen
-"Carnen"
-End
-
-Map:MAPMPCarnen/Desc
-"De Carnen stroomt van de IJzerheuvels af. Het staat bekend als Roodwater, omdat het ijzer van de bergen het een rode tint geeft. Credits: m@tt \n Aantal spelers: 2 \n Startposities: Kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 8 \n Schuilplaatsen: Aardman en Warg"
-End
-
-Map:MAPMPCarrock
-"Carrock"
-End
-
-Map:MAPMPCarrock/Desc
-"Een hoge rots die oprijst uit de Anduin, het is door Beorn De Carrock genoemd, die er een trap in kerfde. Credits: BadMadMax \n Aantal spelers: 2 \n Startposities: Kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 9 \n Schuilplaatsen: Trol, Aardman en Warg"
-End
-
-Map:MAPMPDesolationOfSmaug
-"Verwoesting van Smaug"
-End
-
-Map:MAPMPDesolationOfSmaug/Desc
-"Deze woestenij is gevormd door Smaug de Draak, die het gebied rond de Eenzame Berg heeft vernietigd. Credits: _Haldir_ \n Aantal spelers: 5 \n Startposities: Kampen \n Uitbreidingspunten: 5 \n Nederzettingen: 15 \n Schuilplaatsen: Trol en Aardman"
-End
-
-Map:MAPMPDimrillDale
-"Deemrildal"
-End
-
-Map:MAPMPDimrillDale/Desc
-"Buiten de oost poort van Moria ligt deze rotsachtige maar toch beboste vallei die om het Spiegelmeer ligt. Credits: m@tt \n Aantal spelers: 6 \n Startposities: Kastelen \n Nederzettingen: 18 \n Schuilplaatsen: Trol, Aardman en Warg"
-End
-
-Map:MAPMPDruwaithIaurWE
-"Drúwaith Iaur WE"
-End
-
-Map:MAPMPDruwaithIaurWE/Desc
-"Deze valleien, ten zuiden van Gondor, zijn de thuisbasis van de mysterieuze Drúedain. Credits: Naugrim \n Aantal spelers: 2 \n Startposities: Kastelen \n Uitbreidingspunten: 3 \n Nederzettingen: 8 \n Schuilplaatsen: Trol en Warg"
-End
-
-Map:MAPMPDunland
-"Donkerland"
-End
-
-Map:MAPMPDunland/Desc
-"Ten westen van de Nevelbergen ligt Donkerland, een heuvelachtige regio wiens oorlogzuchtige volk onder de duistere invloed van Isengard is. Credits: _Haldir_ \n Aantal spelers: 7 \n Startposities: Kampen \n Uitbreidingspunten: 3 \n Nederzettingen: 7 \n Schuilplaatsen: Trol en Warg"
-End
-
-Map:MAPMPEregion
-"Eregion"
-End
-
-Map:MAPMPEregion/Desc
-"Eens de thuisbasis van de Elfensmeden die de Ringen van Macht smeedden, nu is Eregion overwoekerd en een ruïne. Credits: Lex Flores \n Aantal spelers: 4 \n Startposities: Kampen en Kastelen \n Nederzettingen: 10 \n Schuilplaatsen: Aardman en Warg"
-End
-
-Map:MAPMPFordsOfBruinen
-"Voorde van de Bruinen"
-End
-
-Map:MAPMPFordsOfBruinen/Desc
-"De Bruinen stroomt van de Nevelbergen af en omringt de Elfenstad Rivendell. Credits: m@tt \n Aantal spelers: 4 \n Startposities: Kastelen \n Uitbreidingspunten: 4 \n Nederzettingen: 10 \n Schuilplaatsen: Trol en Aardman"
-End
-
-Map:MAPMPIronHills
-"IJzerheuvels"
-End
-
-Map:MAPMPIronHills/Desc
-"De IJzerheuvels zijn de bron van het Roodwater die de grens vormt met het oostelijke land Rhûn. Credits: _Haldir_ \n Aantal spelers: 3 \n Startposities: Kampen \n Uitbreidingspunten: 1 \n Nederzettingen: 9 \n Schuilplaatsen: Trol en Aardman"
-End
-
-Map:MAPMPLamedon
-"Lamedon"
-End
-
-Map:MAPMPLamedon/Desc
-"Een semi bergachtige regio net ten zuiden van de Witte Bergen. Credits: TheFoeHammer \n Aantal spelers: 8 \n Startposities: Kastelen \n Uitbreidingspunten: 4 \n Nederzettingen: 16 \n Schuilplaatsen: Trol, Aardman en Warg"
-End
-
-Map:MAPMPLossarnach
-"Lossarnach"
-End
-
-Map:MAPMPLossarnach/Desc
-"Eén van Gondors zuidelijke leengoederen, Lossarnach ligt in de valleien van de Witte Bergen. De weelderige graslanden staan vol bloemen. Credits: _Haldir_ \n Aantal spelers: 6 \n Startposities: Kampen \n Uitbreidingspunten: 2 \n Nederzettingen: 16 \n Schuilplaatsen: Aardman en Warg"
-End
-
-Map:MAPMPMinhiriath
-"Minhiriath"
-End
-
-Map:MAPMPMinhiriath/Desc
-"Minhiriath ligt tussen de Grijsvloed en Brandewijn rivieren, in de regio Eriador. Eens bevolkt, nu vervallen tot ruïnes. Credits: _Haldir_ \n Aantal spelers: 7 \n Start Posities: Kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 21 \n Schuilplaatsen: Trol en Warg"
-End
-
-Map:MAPMPOldFordOfAnduin
-"Oude Voorde van de Anduin"
-End
-
-Map:MAPMPOldFordOfAnduin/Desc
-"De Anduin stroomt tussen de Nevelbergen en Demsterwold, en de voorde is onderdeel van de Oude Bosweg. Credits: m@tt \n Aantal spelers: 4 \n Startposities: Kastelen \n Uitbreidingspunten: 2 \n Nederzettingen: 16 \n Schuilplaatsen: Aardman en Warg"
-End
-
-Map:MAPMPSouthRhun
-"Zuid-Rhûn"
-End
-
-Map:MAPMPSouthRhun/Desc
-"De Wagenrijders van Rhûn kwamen in deze stoffige landen om zich hier te vestigen en vormde bondgenootschappen met Khand en Harad. Credits: Dennis Agodzo \n Aantal spelers: 6 \n Startposities: Kampen \n Uitbreidingspunten: 2 \n Nederzettingen: 10 \n Schuilplaatsen: Trol en Aardman"
-End
-
-Map:MAPMPTharbad
-"Tharbad"
-End
-
-Map:MAPMPTharbad/Desc
-"De Oude Zuidelijke Route loopt door de eeuwenoude stad Tharbad, de ruïnes van zijn eens grootse brug is nu een gevaarlijke voorde. Credits: _Haldir_ \n Aantal spelers: 3 \n Startposities: Kastelen \n Uitbreidingspunten: 1 \n Nederzettingen: 15 \n Schuilplaatsen: Trol en Aardman"
 End
