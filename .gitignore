@@ -1,14 +1,13 @@
 # Backup and FinalBig files #
 *.orig
 *.big
-106files
 *.dat
 
 # Compiled source #
 ###################
 *.com
 *.class
-*.dll
+#*.dll
 *.exe
 *.o
 *.so
